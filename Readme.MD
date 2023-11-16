@@ -92,5 +92,6 @@ Downloading...
 
 Video successfully downloaded to 'Downloads' folder.
 
-#Enjoy your video downloading experience with VideoOmeo! If you find the program helpful, consider giving it a ⭐️ star!
+
 ```
+#Enjoy your video downloading experience with VideoOmeo! If you find the program helpful, consider giving it a ⭐️ star!
