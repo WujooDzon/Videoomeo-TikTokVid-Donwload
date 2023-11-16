@@ -18,11 +18,7 @@ To run VideoOmeo, follow these simple steps:
     cd VideoOmeo
     ```
 
-4. Run the program by executing the VideoOmeo.bat file.
-
-    ```bash
-    VideoOmeo.bat
-    ```
+4. Run the VideoOmeo.exe file.
 
 5. Choose an option from the menu to start using VideoOmeo.
 
@@ -83,7 +79,7 @@ VideoOmeo is a powerful video downloader that streamlines the process of acquiri
 ## Usage Example:
 
 ```bash
-VideoOmeo.bat
+VideoOmeo.exe
 
 1. Video Downloader
 2. Github
