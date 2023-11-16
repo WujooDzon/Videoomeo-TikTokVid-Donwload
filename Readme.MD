@@ -1,28 +1,45 @@
-# Getting Started
+# VideoOmeo
+
+## Getting Started
 
 To run VideoOmeo, follow these simple steps:
 
-1. Ensure you have Python installed on your system. If not, download and install it from [python.org](https://www.python.org/).
+1. Ensure you have Python installed on your system. If not, download and install it from [python.org](https://www.python.org/downloads/).
 
 2. Clone this repository to your local machine.
 
-   ```bash
-   git clone https://github.com/your-username/VideoOmeo.git
-   ```
+    ```bash
+    git clone https://github.com/your-username/VideoOmeo.git
+    ```
 
 3. Navigate to the project directory.
 
-   ```bash
-   cd VideoOmeo
-   ```
+    ```bash
+    cd VideoOmeo
+    ```
 
-4. Run the program by executing the `VideoOmeo.bat` file.
+4. Run the program by executing the VideoOmeo.bat file.
 
-   ```bash
-   VideoOmeo.bat
-   ```
+    ```bash
+    VideoOmeo.bat
+    ```
 
 5. Choose an option from the menu to start using VideoOmeo.
+
+## Batch Download
+
+If you want to download multiple videos, provide the links separated by commas. Follow the tutorial below to get links from TikTok:
+
+1. Open TikTok and copy the video link.
+
+2. Paste the link in VideoOmeo, add a comma, and press enter. Repeat this process for each video link.
+
+    Example:
+    ```
+    https://tiktok.com/abcdefg,
+    https://tiktok.com/hijklmn,
+    https://tiktok.com/opqrst,
+    ```
 
 ## Dependencies Installation
 
@@ -45,7 +62,7 @@ Ensure you have Python version 3.8 or later installed. You can update Python usi
 pip install --upgrade python
 ```
 
-To update the `colorama` library to version 0.4.4, run:
+To update the colorama library to version 0.4.4, run:
 
 ```bash
 pip install --upgrade colorama==0.4.4
@@ -56,18 +73,19 @@ pip install --upgrade colorama==0.4.4
 VideoOmeo is a powerful video downloader that streamlines the process of acquiring videos from the internet. It is built using Python and utilizes various libraries for enhanced functionality.
 
 ### Features:
+
 - **Simple Usage:** Download videos effortlessly by providing a single link.
 - **Batch Download:** Download multiple videos simultaneously by separating links with commas.
 - **Multilingual Support:** VideoOmeo supports multiple languages, ensuring a global user base can benefit from its capabilities.
 - **Text-to-Speech:** Integrated with pyttsx3 for a speech synthesis feature, enabling users to receive auditory feedback on their actions.
 - **Interactive Progress Bar:** The tqdm library provides users with a dynamic and visually appealing progress bar during the download process.
 
-### Usage Example:
+## Usage Example:
 
 ```bash
 VideoOmeo.bat
 
-1. Video Donwloader
+1. Video Downloader
 2. Github
 3. License
 4. QUIT
@@ -77,10 +95,6 @@ Enter your choice: 1
 Downloading...
 
 Video successfully downloaded to 'Downloads' folder.
-```
 
 Enhance your video downloading experience with VideoOmeo! Feel free to contribute and make the tool even more robust.
-
-## License
-
-MIT License with No Modification for Personal Use. See [LICENSE.md](LICENSE.md) for details.
+```
