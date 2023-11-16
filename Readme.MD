@@ -9,7 +9,7 @@ To run VideoOmeo, follow these simple steps:
 2. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/VideoOmeo.git
+    git clone https://github.com/WujooDzon/VideoOmeo.git
     ```
 
 3. Navigate to the project directory.
