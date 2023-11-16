@@ -1,6 +1,4 @@
-VideoOmeo is a versatile Python-based tool designed to simplify the process of downloading videos from the internet. With an intuitive command-line interface, it allows users to easily download videos by providing a link. Additionally, users can download multiple videos at once by separating the links with commas.
-
-## Getting Started
+# Getting Started
 
 To run VideoOmeo, follow these simple steps:
 
